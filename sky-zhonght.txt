@@ -1,4 +1,5 @@
 I am zhonght from tsinghua university
 My major is Electronic Engineering
 I like tensorflow a lot
-but I don't know you
+But I don't know you
+Could you please say something about you
